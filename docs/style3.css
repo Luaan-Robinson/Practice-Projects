@@ -67,7 +67,7 @@ header h1 {
 /* Mobile hamburger menu button */
 .menu-toggle {
     display: none; /* Hidden on desktop */
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 1);
     border: 3.5px solid aliceblue;
     color: var(--primary-purple);
     opacity: 0.6;
