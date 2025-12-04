@@ -75,6 +75,7 @@ A modern, fully responsive landing page showcasing a fictional tech training cen
 
 
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/f824425d-4517-4876-87eb-f6c0dc1ad4ed" />
+
 <img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/fd04ca80-bca4-44fc-af1b-2f43c105395d" />
 
 
