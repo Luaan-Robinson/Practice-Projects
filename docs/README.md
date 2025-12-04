@@ -71,6 +71,14 @@ A modern, fully responsive landing page showcasing a fictional tech training cen
 
 **[View Demo →](https://luaan-robinson.github.io/Training-Center/)**
 
+**[site screenshots]:**
+
+
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/f824425d-4517-4876-87eb-f6c0dc1ad4ed" />
+<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/fd04ca80-bca4-44fc-af1b-2f43c105395d" />
+
+
+
 **[Test Cases →](https://luaan-robinson.atlassian.net/jira/software/c/projects/ETC/list?jql=project+%3D+%22ETC%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMzUzOGM3NDU1MmQwNGM1ZmIyMzM1YWI0NjcwODA0ZGIiLCJwIjoiaiJ9)**
 
 **[Jira Testing Screenshots]:**
